@@ -1,7 +1,7 @@
 {
   "name": "handlebars-regexp",
   "author": "Lloyd Brookes <75pound@gmail.com>",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "handlebars-regexp",
   "repository": "https://github.com/75lb/handlebars-regexp.git",
   "main": "./lib/handlebars-regexp.js",
