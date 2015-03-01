@@ -2,10 +2,10 @@
 [![npm module downloads per month](http://img.shields.io/npm/dm/handlebars-regexp.svg)](https://www.npmjs.org/package/handlebars-regexp)
 [![Dependency Status](https://david-dm.org/75lb/handlebars-regexp.svg)](https://david-dm.org/75lb/handlebars-regexp)
 
-#handlebars-regexp
+# handlebars-regexp
 RegExp Handlebars helpers. 
 
-##Install
+## Install
 ```sh
 $ npm install handlebars-regexp --save
 ```
