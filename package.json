@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "handlebars-regexp",
   "repository": "https://github.com/75lb/handlebars-regexp.git",
+  "license": "MIT",
   "main": "./lib/handlebars-regexp.js",
   "keywords": [],
   "engines": {
